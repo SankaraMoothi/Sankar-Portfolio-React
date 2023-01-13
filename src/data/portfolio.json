@@ -1,0 +1,76 @@
+{
+  "portfolio": [
+    {
+      "cover": "/portfolio/task-manager-fs/tesla.png",
+      "title": "Tesla Clone",
+      "description": "Tesla Clone I try To Clone Tesla with Popular UI tools Like Material Ui And Styled Components",
+      "url": "https://tesla-clone-mass.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/task-manager-fs/fb.png",
+      "title": "Facebook clone",
+      "description": "Facebook clone Based on Ui And only Post Future And Also Google Authentication and Hosting and database With help Of Firebase",
+      "url": "https://facebook-clone-27eda.web.app/"
+    },
+    {
+      "cover": "/portfolio/task-manager-fs/chatApp.png",
+      "title": "Chatting App",
+      "description": "Simple Chatting App In React with Firebase Hosting And Database With Context Api... and SASS used for design..",
+      "url": "https://chat-app-df194.web.app/"
+    },
+    {
+      "cover": "/portfolio/task-manager-fs/linkedin.png",
+      "title": "LinkedIn Clone",
+      "description": "An Full Stack App With react and Firebase",
+      "url": "https://linkedin-clone-bd942.web.app/"
+    },
+    {
+      "cover": "/portfolio/task-manager-fs/movie.png",
+      "title": "movies review app",
+      "description": "An Full Stack App With react and Firebase",
+      "url": "https://mass-movie-hub.netlify.app/Portal"
+    },
+    {
+      "cover": "/portfolio/task-manager-fs/my.png",
+      "title": "My Portfolio",
+      "description": "Creating Portfolio in React",
+      "url": "https://sankar-portfolio-react.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/task-manager-fs/task-Manager-fs.png",
+      "title": "Task-Manager",
+      "description": "An Full Stack App With Normal Html Css And js And Backend Api has Created with Node.js And Database MongoDb",
+      "url": "https://task-manger-app.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/task-manager-fs/food.png",
+      "title": "Food Menu",
+      "description": "Creating My Fav Food Menu In React With React-Router-Dom And Super Responsive Web Design With Normal CSS And Media querry",
+      "url": "https://my-fav-menu-items.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/task-manager-fs/gs.png",
+      "title": "Grocery List",
+      "description": "Creating Grocery List App Using React App simple hooks And Conditional Rendering also Store An Data In Browser Local Storage",
+      "url": "https://grocerys-lists.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/task-manager-fs/ex.png",
+      "title": "Expense-tracker",
+      "description": "Expense-tracker Simple Front End.....With React and Context-api",
+      "url": "https://expenses-trackers-react.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/task-manager-fs/rs.png",
+      "title": "Sliding Reviews",
+      "description": "Simple Sliding reviews app with react....",
+      "url": "https://reviews-sliders.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/task-manager-fs/br.png",
+      "title": "Birthday Reminder",
+      "description": "Simple Birthday reminder simple app using react",
+      "url": "https://birthdays-reminders-mass.netlify.app/"
+    }
+  ]
+}
