@@ -7,6 +7,18 @@
       "url": "https://tesla-clone-mass.netlify.app/"
     },
     {
+      "cover": "/portfolio/task-manager-fs/coffee.png",
+      "title": "Responsive Coffee Website",
+      "description": "Practice UI/UX with Simple HTML CSS JS Creating Responsive Coffee Website",
+      "url": "https://responsive-coffee-websites.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/task-manager-fs/cr-m.png",
+      "title": "Creative-Mind Page",
+      "description": "Creating An Creative-Mind Page Using Next.js Tailwind CSS Firebase",
+      "url": "https://creative-mind-git-main-sankaramoothi.vercel.app/"
+    },
+    {
       "cover": "/portfolio/task-manager-fs/fb.png",
       "title": "Facebook clone",
       "description": "Facebook clone Based on Ui And only Post Future And Also Google Authentication and Hosting and database With help Of Firebase",
@@ -18,6 +30,7 @@
       "description": "Simple Chatting App In React with Firebase Hosting And Database With Context Api... and SASS used for design..",
       "url": "https://chat-app-df194.web.app/"
     },
+
     {
       "cover": "/portfolio/task-manager-fs/linkedin.png",
       "title": "LinkedIn Clone",
@@ -29,6 +42,24 @@
       "title": "movies review app",
       "description": "An Full Stack App With react and Firebase",
       "url": "https://mass-movie-hub.netlify.app/Portal"
+    },
+    {
+      "cover": "/portfolio/task-manager-fs/chr-about.png",
+      "title": "Chrome About Page",
+      "description": "Practice UI/UX with Simple HTML CSS Re-Creating Chrome About Page",
+      "url": "https://chrome-about-page.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/task-manager-fs/LT.png",
+      "title": "Link Tree",
+      "description": "Creating My Own Link Tree Using Html Css To Improve UI/UX Skill",
+      "url": "https://link-tree-my.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/task-manager-fs/Ecom-page.png",
+      "title": "Ecommerce Product Page Design",
+      "description": "Practice UI/UX with Simple HTML CSS Creating Ecommerce Product Page Design",
+      "url": "https://ecom-product-pages.netlify.app/"
     },
     {
       "cover": "/portfolio/task-manager-fs/my.png",
