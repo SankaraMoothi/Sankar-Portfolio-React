@@ -49,6 +49,20 @@
     transform: rotateX(-90deg) translateZ(100px);
   }
 }
+.resumelink {
+  padding: 3px 10px;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  font-family: 'La Belle Aurore';
+  font-size: 23px;
+  transition: all 0.5s;
+  cursor: pointer;
+}
+.resumelink:hover {
+  color: white;
+  background-color: #c6aa07;
+}
 
 @keyframes spincube {
   from,

@@ -1,127 +1,158 @@
 {
   "portfolio": [
     {
-      "cover": "/portfolio/task-manager-fs/tesla.png",
-      "title": "Tesla Clone",
-      "description": "Tesla Clone I try To Clone Tesla with Popular UI tools Like Material Ui And Styled Components",
-      "url": "https://tesla-clone-mass.netlify.app/"
-    },
-    {
-      "cover": "/portfolio/task-manager-fs/coffee.png",
-      "title": "Responsive Coffee Website",
-      "description": "Practice UI/UX with Simple HTML CSS JS Creating Responsive Coffee Website",
-      "url": "https://responsive-coffee-websites.netlify.app/"
-    },
-
-    {
       "cover": "/portfolio/task-manager-fs/blog.png",
       "title": "MyBlogg App",
       "description": "An Blog Writing Website Which Basically Store An Image In AWS S3 And Content  In Mongodb Using ReactJs For UI  Also State Manage By Context Api And It’s Has Authentication System Web-app Created Using MERN Stack",
-      "url": "https://blog-mern-frondend.netlify.app/"
+      "url": "https://blog-mern-frondend.netlify.app/",
+      "Git": "https://github.com/SankaraMoothi/blog-mern-frontEnd.git"
+    },
+    {
+      "cover": "/portfolio/task-manager-fs/sharePrompt.png",
+      "title": "share-prompt",
+      "description": "Sharing An AI Prompt To Others With Tags And Prompt It Helps To Get Good Staff Out Of AI google Auth And Search Functionality Mongo DB Database",
+      "url": "https://share-prompt-nextjs-ln2x9aal1-sankaramoothi.vercel.app/",
+      "Git": "https://github.com/SankaraMoothi/share-prompt-nextjs.git"
+    },
+
+    {
+      "cover": "/portfolio/task-manager-fs/stackOverFlow.png",
+      "title": "Question Riser",
+      "description": "Its Help To Developer Has Any Problem Its Serves An Common Platform To Discussion And Solve The Problem With Help Of Other Developers Around The World Built On MERN Stack Also State Manage By Redux And It’s Has Authentication System",
+      "url": "https://adorable-daffodil-05a149.netlify.app/",
+      "Git": "https://github.com/SankaraMoothi/webcode-frontEnd.git"
     },
     {
       "cover": "/portfolio/task-manager-fs/expense.png",
       "title": "Expense App",
       "description": "Its Keeps On Track About Our Monthly Expense It's All  Built On MERN Stack With Authentication System",
-      "url": "https://expense-trackers-mass.netlify.app/"
+      "url": "https://expense-trackers-mass.netlify.app/",
+      "Git": "https://github.com/SankaraMoothi/Expense-tracker-client.git"
     },
+    {
+      "cover": "/portfolio/task-manager-fs/movie.png",
+      "title": "movies review app",
+      "description": "The honest review by verified audience created by mern stack With Auth",
+      "url": "https://mass-movie-hub.netlify.app/Portal",
+      "Git": "https://github.com/SankaraMoothi/movie.git"
+    },
+
     {
       "cover": "/portfolio/task-manager-fs/cr-m.png",
       "title": "Creative-Mind Page",
       "description": "Creating An Creative-Mind Page Using Next.js Tailwind CSS Firebase",
-      "url": "https://creative-mind-git-main-sankaramoothi.vercel.app/"
+      "url": "https://creative-mind-git-main-sankaramoothi.vercel.app/",
+      "Git": "https://github.com/SankaraMoothi/creative-mind.git"
+    },
+    {
+      "cover": "/portfolio/task-manager-fs/task-Manager-fs.png",
+      "title": "Task-Manager",
+      "description": "An Full Stack App With Normal Html Css And js And Backend Api has Created with Node.js And Database MongoDb",
+      "url": "https://task-manger-app.netlify.app/",
+      "Git": "https://github.com/SankaraMoothi/Task-Manager-FrontEnd.git"
+    },
+    {
+      "cover": "/portfolio/task-manager-fs/coffee.png",
+      "title": "Responsive Coffee Website",
+      "description": "Practice UI/UX with Simple HTML CSS JS Creating Responsive Coffee Website",
+      "url": "https://responsive-coffee-websites.netlify.app/",
+      "Git": "https://github.com/SankaraMoothi/responsive-coffee-website.git"
     },
     {
       "cover": "/portfolio/task-manager-fs/chatApp.png",
       "title": "Chatting App",
       "description": "Simple Chatting App In React with Firebase Hosting And Database With Context Api... and SASS used for design..",
-      "url": "https://chat-app-df194.web.app/"
+      "url": "https://chat-app-df194.web.app/",
+      "Git": "https://github.com/SankaraMoothi/chat-app.git"
     },
     {
-      "cover": "/portfolio/task-manager-fs/stackOverFlow.png",
-      "title": "Question Riser",
-      "description": "Its Help To Developer Has Any Problem Its Serves An Common Platform To Discussion And Solve The Problem With Help Of Other Developers Around The World Built On MERN Stack Also State Manage By Redux And It’s Has Authentication System",
-      "url": "https://chat-app-df194.web.app/"
+      "cover": "/portfolio/task-manager-fs/tesla.png",
+      "title": "Tesla Clone",
+      "description": "Tesla Clone I try To Clone Tesla with Popular UI tools Like Material Ui And Styled Components",
+      "url": "https://tesla-clone-mass.netlify.app/",
+      "Git": "https://github.com/SankaraMoothi/tesla-clones.git"
     },
 
     {
       "cover": "/portfolio/task-manager-fs/fb.png",
       "title": "Facebook clone",
       "description": "Facebook clone Based on Ui And only Post Future And Also Google Authentication and Hosting and database With help Of Firebase",
-      "url": "https://facebook-clone-27eda.web.app/"
+      "url": "https://facebook-clone-27eda.web.app/",
+      "Git": "https://github.com/SankaraMoothi/facebook-clone.git"
     },
 
     {
       "cover": "/portfolio/task-manager-fs/linkedin.png",
       "title": "LinkedIn Clone",
       "description": "An Full Stack App With react and Firebase",
-      "url": "https://linkedin-clone-bd942.web.app/"
-    },
-    {
-      "cover": "/portfolio/task-manager-fs/movie.png",
-      "title": "movies review app",
-      "description": "An Full Stack App With react and Firebase",
-      "url": "https://mass-movie-hub.netlify.app/Portal"
-    },
-    {
-      "cover": "/portfolio/task-manager-fs/chr-about.png",
-      "title": "Chrome About Page",
-      "description": "Practice UI/UX with Simple HTML CSS Re-Creating Chrome About Page",
-      "url": "https://chrome-about-page.netlify.app/"
+      "url": "https://linkedin-clone-bd942.web.app/",
+      "Git": "https://github.com/SankaraMoothi/linkedin-clone.git"
     },
     {
       "cover": "/portfolio/task-manager-fs/LT.png",
       "title": "Link Tree",
       "description": "Creating My Own Link Tree Using Html Css To Improve UI/UX Skill",
-      "url": "https://link-tree-my.netlify.app/"
+      "url": "https://link-tree-my.netlify.app/",
+      "Git": "https://github.com/SankaraMoothi/LinkTree.git"
     },
     {
       "cover": "/portfolio/task-manager-fs/Ecom-page.png",
       "title": "Ecommerce Product Page Design",
       "description": "Practice UI/UX with Simple HTML CSS Creating Ecommerce Product Page Design",
-      "url": "https://ecom-product-pages.netlify.app/"
+      "url": "https://ecom-product-pages.netlify.app/",
+      "Git": "https://github.com/SankaraMoothi/ecom-product-page.git"
     },
+
+    {
+      "cover": "/portfolio/task-manager-fs/chr-about.png",
+      "title": "Chrome About Page",
+      "description": "Practice UI/UX with Simple HTML CSS Re-Creating Chrome About Page",
+      "url": "https://chrome-about-page.netlify.app/",
+      "Git": "https://github.com/SankaraMoothi/GoogleAboutPage.git"
+    },
+
     {
       "cover": "/portfolio/task-manager-fs/my.png",
       "title": "My Portfolio",
       "description": "Creating Portfolio in React",
-      "url": "https://sankar-portfolio-react.netlify.app/"
+      "url": "https://sankar-portfolio-react.netlify.app/",
+      "Git": "https://github.com/SankaraMoothi/Sankar-Portfolio-React.git"
     },
-    {
-      "cover": "/portfolio/task-manager-fs/task-Manager-fs.png",
-      "title": "Task-Manager",
-      "description": "An Full Stack App With Normal Html Css And js And Backend Api has Created with Node.js And Database MongoDb",
-      "url": "https://task-manger-app.netlify.app/"
-    },
+
     {
       "cover": "/portfolio/task-manager-fs/food.png",
       "title": "Food Menu",
       "description": "Creating My Fav Food Menu In React With React-Router-Dom And Super Responsive Web Design With Normal CSS And Media querry",
-      "url": "https://my-fav-menu-items.netlify.app/"
+      "url": "https://my-fav-menu-items.netlify.app/",
+      "Git": "https://github.com/SankaraMoothi/myfav-food-menu.git"
     },
     {
       "cover": "/portfolio/task-manager-fs/gs.png",
       "title": "Grocery List",
       "description": "Creating Grocery List App Using React App simple hooks And Conditional Rendering also Store An Data In Browser Local Storage",
-      "url": "https://grocerys-lists.netlify.app/"
+      "url": "https://grocerys-lists.netlify.app/",
+      "Git": "https://github.com/SankaraMoothi/grocery-list.git"
     },
     {
       "cover": "/portfolio/task-manager-fs/ex.png",
       "title": "Expense-tracker",
       "description": "Expense-tracker Simple Front End.....With React and Context-api",
-      "url": "https://expenses-trackers-react.netlify.app/"
+      "url": "https://expenses-trackers-react.netlify.app/",
+      "Git": "https://github.com/SankaraMoothi/expense_tracker.git"
     },
     {
       "cover": "/portfolio/task-manager-fs/rs.png",
       "title": "Sliding Reviews",
       "description": "Simple Sliding reviews app with react....",
-      "url": "https://reviews-sliders.netlify.app/"
+      "url": "https://reviews-sliders.netlify.app/",
+      "Git": "https://github.com/SankaraMoothi/reviews-slider.git"
     },
     {
       "cover": "/portfolio/task-manager-fs/br.png",
       "title": "Birthday Reminder",
       "description": "Simple Birthday reminder simple app using react",
-      "url": "https://birthdays-reminders-mass.netlify.app/"
+      "url": "https://birthdays-reminders-mass.netlify.app/",
+      "Git": "https://github.com/SankaraMoothi/birthday_reminder.git"
     }
   ]
 }

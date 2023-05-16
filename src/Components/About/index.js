@@ -19,7 +19,12 @@ const About = () => {
       setLetterClass('text-animate-hover')
     }, 3000)
   }, [])
-
+  const ShowResume = (e) => {
+    e.preventDefault()
+    window.open(
+      'https://drive.google.com/file/d/1jUHa3NxNaWyidCmB5GBOcVN0AWGxfqQy/view?usp=sharing'
+    )
+  }
   return (
     <>
       <div className="container about-page">
@@ -45,6 +50,10 @@ const About = () => {
             person, a sports fanatic,photography enthusiast, and
             tech-obsessed!!!
           </p>
+          <button className="resumelink" onClick={ShowResume}>
+            {' '}
+            View Resume
+          </button>
         </div>
         <div className="stage-cube-cont">
           <div className="cubespinner">

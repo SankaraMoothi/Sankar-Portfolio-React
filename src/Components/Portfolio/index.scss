@@ -75,6 +75,9 @@
       transform: translateY(-3px);
       background: #ffd700;
     }
+    .newbtn {
+      margin-left: 10px;
+    }
     &:after {
       content: '';
       background: linear-gradient(180deg, #ffd700, #000);

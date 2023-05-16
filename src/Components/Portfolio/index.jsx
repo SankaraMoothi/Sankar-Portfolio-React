@@ -28,7 +28,13 @@ const Portfolio = () => {
                 <p className="title">{port.title}</p>
                 <h4 className="description">{port.description}</h4>
                 <button className="btn" onClick={() => window.open(port.url)}>
-                  View
+                  website
+                </button>
+                <button
+                  className="btn newbtn"
+                  onClick={() => window.open(port.Git)}
+                >
+                  Git
                 </button>
               </div>
             </div>
