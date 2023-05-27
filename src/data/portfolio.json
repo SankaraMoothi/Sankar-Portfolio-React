@@ -2,14 +2,14 @@
   "portfolio": [
     {
       "cover": "/portfolio/task-manager-fs/blog.png",
-      "title": "MyBlogg App",
+      "title": "MyBlogg App (MERN)",
       "description": "An Blog Writing Website Which Basically Store An Image In AWS S3 And Content  In Mongodb Using ReactJs For UI  Also State Manage By Context Api And It’s Has Authentication System Web-app Created Using MERN Stack",
       "url": "https://blog-mern-frondend.netlify.app/",
       "Git": "https://github.com/SankaraMoothi/blog-mern-frontEnd.git"
     },
     {
       "cover": "/portfolio/task-manager-fs/sharePrompt.png",
-      "title": "share-prompt",
+      "title": "share-prompt (MERN)",
       "description": "Sharing An AI Prompt To Others With Tags And Prompt It Helps To Get Good Staff Out Of AI google Auth And Search Functionality Mongo DB Database",
       "url": "https://share-prompt-nextjs-ln2x9aal1-sankaramoothi.vercel.app/",
       "Git": "https://github.com/SankaraMoothi/share-prompt-nextjs.git"
@@ -17,21 +17,21 @@
 
     {
       "cover": "/portfolio/task-manager-fs/stackOverFlow.png",
-      "title": "Question Riser",
+      "title": "Question Riser (MERN)",
       "description": "Its Help To Developer Has Any Problem Its Serves An Common Platform To Discussion And Solve The Problem With Help Of Other Developers Around The World Built On MERN Stack Also State Manage By Redux And It’s Has Authentication System",
       "url": "https://adorable-daffodil-05a149.netlify.app/",
       "Git": "https://github.com/SankaraMoothi/webcode-frontEnd.git"
     },
     {
       "cover": "/portfolio/task-manager-fs/expense.png",
-      "title": "Expense App",
+      "title": "Expense App (MERN)",
       "description": "Its Keeps On Track About Our Monthly Expense It's All  Built On MERN Stack With Authentication System",
       "url": "https://expense-trackers-mass.netlify.app/",
       "Git": "https://github.com/SankaraMoothi/Expense-tracker-client.git"
     },
     {
       "cover": "/portfolio/task-manager-fs/movie.png",
-      "title": "movies review app",
+      "title": "movies review app (MERN)",
       "description": "The honest review by verified audience created by mern stack With Auth",
       "url": "https://mass-movie-hub.netlify.app/Portal",
       "Git": "https://github.com/SankaraMoothi/movie.git"
