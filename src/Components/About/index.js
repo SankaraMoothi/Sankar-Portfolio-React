@@ -22,7 +22,7 @@ const About = () => {
   const ShowResume = (e) => {
     e.preventDefault()
     window.open(
-      'https://drive.google.com/file/d/1GQ1Nd4MfFjpLnjpTzzORCMb4B7ZVsOEg/view?usp=sharing'
+      'https://docs.google.com/document/d/1FSvHp3MvRH_xrsMV_gkyOtMiGWgIECDsDQklHL0sIOE/edit?usp=sharing'
     )
   }
   return (
